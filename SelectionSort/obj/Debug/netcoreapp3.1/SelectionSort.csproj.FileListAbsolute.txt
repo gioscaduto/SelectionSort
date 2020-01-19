@@ -1,0 +1,11 @@
+C:\Users\giova\source\repos\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.exe
+C:\Users\giova\source\repos\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.deps.json
+C:\Users\giova\source\repos\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.json
+C:\Users\giova\source\repos\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.dev.json
+C:\Users\giova\source\repos\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.dll
+C:\Users\giova\source\repos\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.pdb
+C:\Users\giova\source\repos\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csprojAssemblyReference.cache
+C:\Users\giova\source\repos\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfo.cs
+C:\Users\giova\source\repos\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.dll
+C:\Users\giova\source\repos\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.pdb
